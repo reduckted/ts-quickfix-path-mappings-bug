@@ -7,6 +7,6 @@
         "tsc": "tsc -p tsconfig.json --noEmit"
     },
     "dependencies": {
-        "typescript": "4.0.3"
+        "typescript": "3.9.7"
     }
 }
