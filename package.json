@@ -1,0 +1,12 @@
+{
+    "name": "ts-quickfix-path-mappings-bug",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "tsc": "tsc -p tsconfig.json --noEmit"
+    },
+    "dependencies": {
+        "typescript": "4.0.3"
+    }
+}
